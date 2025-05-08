@@ -13,8 +13,8 @@ I am inspired by teamLab’s _Proliferating Immense Life – A Whole Year per Ye
 
 #### Reference Images
 
-![teamLab Flower Art 1](assets/Proliferating Immense Life - 1.webp)  
-![teamLab Flower Art 2](assets/Proliferating Immense Life - 3.webp)
+![teamLab Flower Art 1](readmeimages/Proliferating Immense Life - 1.webp)  
+![teamLab Flower Art 2](readmeimage/Proliferating Immense Life - 3.webp)
 
 ---
 
