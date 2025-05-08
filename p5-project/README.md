@@ -11,10 +11,11 @@ I am inspired by teamLab’s _Proliferating Immense Life – A Whole Year per Ye
 - Interactive Digital Installation
 - [teamLab Official Site](https://www.teamlab.art/w/proliferating_immense_life/)
 
-#### Reference Images
+#### Screenshots
 
-![teamLab Flower Art 1](readmeimages/Proliferating Immense Life - 1.webp)  
-![teamLab Flower Art 2](readmeimage/Proliferating Immense Life - 3.webp)
+![teamLab Flower Art 1](assets/Proliferating%20Immense%20Life%20-%201.webp)
+![teamLab Flower Art 2](assets/Proliferating%20Immense%20Life%20-%203.webp)
+![teamLab Flower Art 2](assets/Proliferating%20Immense%20Life%20-%204.webp)
 
 ---
 
@@ -26,17 +27,5 @@ Additionally, the [**Imagine-a-Flower**](https://github.com/wiiilla/Imagine-a-Fl
 
 These techniques offer expressive, dynamic representations of blooming and can be adapted for creative visual interaction in my project.
 
-#### Coding Technique 1: Bloom by matthewterhune
-- GitHub Repository: [matthewterhune/Bloom](https://github.com/matthewterhune/Bloom)
-- Live Demo: [terhune.xyz/bloom](http://terhune.xyz/bloom)
-
-![Bloom Demo](https://github.com/matthewterhune/Bloom/raw/master/screenshot.png)
-
-#### Coding Technique 2: Imagine-a-Flower by wiiilla
-- GitHub Repository: [wiiilla/Imagine-a-Flower](https://github.com/wiiilla/Imagine-a-Flower)
-
-![Imagine-a-Flower Screenshot](https://github.com/wiiilla/Imagine-a-Flower/raw/master/screenshot.png)
-
 ---
 
-_Commit label: **"Quiz 9"**_
